@@ -1,0 +1,10 @@
+path: /Users/chsuiinx/Documents/chsuiinx.code/course.ML/final/data/processed
+train: images/train
+val: images/val
+test: images/test
+names:
+- Angry
+- Fear
+- Happy
+- Sad
+- Surprise
